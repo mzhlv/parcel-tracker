@@ -1,4 +1,4 @@
-module example.local/parcel
+module github.com/mzhlv/parcel-tracker
 
 go 1.24.5
 
